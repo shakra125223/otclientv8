@@ -41257,3 +41257,28 @@ PandemiaOTS 3.1 rev 114 (dev) made by otclient.net built on Nov 26 2021 for arch
 Connecting to: pandemiaots.pl:7171
 Connecting to: pandemiaots.pl:7171
 Login to 195.201.19.239:7172
+GPU ANGLE (Radeon RX 580 Series Direct3D11 vs_5_0 ps_5_0) (Google Inc.)
+OpenGL OpenGL ES 3.0.0 (ANGLE 2.1.0.54a3d7cbcadb)
+[Atlas] Texture size is: 4096x4096 (max: 16384x16384)
+Found work dir at 'F:/OTS/Client/'
+== application started at Feb 19 2022 11:19:42
+PandemiaOTS 3.1 rev 136 (dev) made by otclient.net built on Feb 19 2022 for arch x86
+ERROR: Missing file: 860/Tibia.dat
+Missing file: 860/Tibia.spr
+
+You should open data/things and create directory 860.
+In this directory (data/things/860) you should put missing
+files (Tibia.dat and Tibia.spr/Tibia.cwm) from correct Tibia version.
+GPU ANGLE (Radeon RX 580 Series Direct3D11 vs_5_0 ps_5_0) (Google Inc.)
+OpenGL OpenGL ES 3.0.0 (ANGLE 2.1.0.54a3d7cbcadb)
+[Atlas] Texture size is: 4096x4096 (max: 16384x16384)
+Found work dir at 'F:/OTS/Client/'
+== application started at Feb 19 2022 11:20:46
+PandemiaOTS 3.1 rev 136 (dev) made by otclient.net built on Feb 19 2022 for arch x86
+Connecting to: pandemiaots.pl:7171
+Login to 195.201.19.239:7172
+Exiting application..
+Connecting to: pandemiaots.pl:7171
+Login to 195.201.19.239:7172
+WARNING: [BOT] [vBot] Please create a new TargetBot config and reset bot
+WARNING: [BOT] [vBot] Please create a new TargetBot config and reset bot
